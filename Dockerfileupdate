@@ -1,0 +1,2 @@
+FROM pycore
+COPY /home/censuspi/Py_core/py_core.py /var/lib/docker/overlay2/jjglxvc64784ufe4jbdi1c3hb/merged

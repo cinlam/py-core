@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  pycore:
+    image: pycore
+    build:
+      context: .
+      dockerfile: ./Dockerfile
